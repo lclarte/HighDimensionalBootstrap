@@ -1,0 +1,12 @@
+name = "JuliaBootstrap"
+uuid = "190a366f-6a68-475c-a764-b757c27e1304"
+authors = ["Lucas Clarte <lucas.clarte@epfl.ch>"]
+version = "0.1.0"
+
+[deps]
+IJulia = "7073ff75-c697-5162-941a-fcdaad2a7d2a"
+JSON = "682c06a0-de6a-54ab-a142-c8b1cf79cde6"
+LogisticBootstrapStateEvolution = "c30d6dea-b1b5-4d77-9f9c-63f9ef141474"
+Plots = "91a5bcdd-55d7-5caf-9e0b-520d859cae80"
+ProgressBars = "49802e3a-d2f1-5c88-81d8-b72133a6f568"
+Revise = "295af30f-e4ad-537b-8983-00126c2a3abe"
